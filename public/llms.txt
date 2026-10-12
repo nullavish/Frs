@@ -1,0 +1,29 @@
+# Shuklaji (ѕнυкℓα जी)
+
+> Shuklaji is a software developer, digital product builder, Telegram bot developer, web designer, author and competitive exam (UPSC) aspirant. Founder of Vocademy and co-founder of Aatmdeep Pvt Ltd. "One mind. Many rabbit holes."
+
+Website: https://shuklaji.org
+Email: contact@shuklaji.in
+Vocademy: https://vocademy.co.in
+Vocademy app: https://vocademyapp.com
+
+## About
+
+Shuklaji explores the intersections of technology, education, finance, philosophy and creativity. Interests range from preparing for competitive examinations (UPSC, SSC, banking, state PSC) and building educational products, to developing Telegram automation tools, exploring cryptocurrency markets, experimenting with AI, and reading literature and philosophy, including the Bhagavad Gita.
+
+## Selected work
+
+- Vocademy: an English vocabulary learning platform for competitive exam aspirants, with active recall, curated word lists and multiplayer challenges. https://vocademy.co.in
+- Telegram automation and developer tools: bots and lightweight web apps for community management, events, alerts, link processing and moderation (Python, Pyrogram, Telethon, aiogram, telebot, React, Tailwind CSS).
+- Crypto and quantitative market tools: candlestick-pattern scanners, price alerts and exchange API integrations.
+- Lakshya AI (student productivity concept), Geeta Wisdom (accessible Gita teachings), Bybit DeepLink Bot, Crypto Market Radar, productivity systems.
+
+All projects: https://shuklaji.org/work
+
+## FAQ
+
+### Who is Shuklaji?
+A developer, product builder, author and UPSC aspirant who founded Vocademy and co-founded Aatmdeep Pvt Ltd.
+
+### How can I contact Shuklaji?
+Email contact@shuklaji.in.
